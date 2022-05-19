@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { yupResolver } from '@hookform/resolvers/yup/dist/yup'
+import { yupResolver } from '@hookform/resolvers/yup'
 import * as yup from 'yup'
 
 import { Input } from '../../components/Form/Input';
